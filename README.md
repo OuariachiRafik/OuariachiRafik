@@ -1,16 +1,13 @@
-## Hi there 👋
+## Greetings 
 
-<!--
-**OuariachiRafik/OuariachiRafik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ouariachi Hammadi Rafik, an engineering grad and RL research assistant at Nanjing Univeristy.
 
-Here are some ideas to get you started:
+My research interests are mainly in Reinforcement learning, MARL and HRL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also like to work on a wide range of AI and software and game dev related projects.
+
+My background is in Mathematics, Theoritical Computer science and my language proficiency encompasses Python and Java(slowly switching to C++ for OOP), but I am open to discovering and learning new tools.
+
+Other than that, I have an interest in History, Literature and Electronics (and anime/vidya).
+
+Whether you need help with something or you just want to talk feel free to reach out to me on hrafik1122@gmail.com and check my website OuariachiRafik.github.io
