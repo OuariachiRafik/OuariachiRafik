@@ -10,4 +10,4 @@ My background is in Mathematics, Theoritical Computer science and my language pr
 
 Other than that, I have an interest in History, Literature and Electronics (and anime/vidya).
 
-Whether you need help with something or you just want to talk feel free to reach out to me on hrafik1122@gmail.com and check my website OuariachiRafik.github.io
+Whether you need help with something or you just want to talk feel free to reach out to me on hrafik1122@gmail.com and check my website [OuariachiRafik.github.io](OuariachiRafik.github.io)
